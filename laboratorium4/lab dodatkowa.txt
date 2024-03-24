@@ -1,0 +1,251 @@
+Średnia proporcja dla forestation = 0.0 to jest 1.0
+Średnia proporcja dla forestation = 0.05 to jest 0.176511684207268652
+Średnia proporcja dla forestation = 0.1 to jest 0.104773362569795172
+Średnia proporcja dla forestation = 0.15 to jest 0.080300481779283504
+Średnia proporcja dla forestation = 0.2 to jest 0.06264719736222327
+Średnia proporcja dla forestation = 0.25 to jest 0.0683455779850415186
+Średnia proporcja dla forestation = 0.3 to jest 0.083552765226293135
+Średnia proporcja dla forestation = 0.35 to jest 0.124277419801042879
+Średnia proporcja dla forestation = 0.4 to jest 0.483868412610387035
+Średnia proporcja dla forestation = 0.45 to jest 0.90704381997283447
+Średnia proporcja dla forestation = 0.5 to jest 0.97795453226713918
+Średnia proporcja dla forestation = 0.55 to jest 0.99188127524352544
+Średnia proporcja dla forestation = 0.6 to jest 0.9972250814598366
+Średnia proporcja dla forestation = 0.65 to jest 0.99935592313061732
+Średnia proporcja dla forestation = 0.7 to jest 0.99958835137304387
+Średnia proporcja dla forestation = 0.75 to jest 0.99994709831337371
+Średnia proporcja dla forestation = 0.8 to jest 0.99998759766836165
+Średnia proporcja dla forestation = 0.85 to jest 1.0
+Średnia proporcja dla forestation = 0.9 to jest 1.0
+Średnia proporcja dla forestation = 0.95 to jest 1.0
+Średnia proporcja dla forestation = 1.0 to jest 1.0
+
+k = 1 for L = 100
+Proportion if forestation is equal to 0.0 will be 1.0
+Proportion if forestation is equal to 0.05 will be 0.15846153846153846
+Proportion if forestation is equal to 0.1 will be 0.10164835164835165
+Proportion if forestation is equal to 0.15 will be 0.0778405524168236
+Proportion if forestation is equal to 0.2 will be 0.07605633802816901
+Proportion if forestation is equal to 0.25 will be 0.0528169014084507
+Proportion if forestation is equal to 0.3 will be 0.09514435695538058
+Proportion if forestation is equal to 0.35 will be 0.1565856416054268
+Proportion if forestation is equal to 0.4 will be 0.40496489468405217
+Proportion if forestation is equal to 0.45 will be 0.9244785949506037
+Proportion if forestation is equal to 0.5 will be 0.9828939424431475
+Proportion if forestation is equal to 0.55 will be 0.9936061381074168
+Proportion if forestation is equal to 0.6 will be 0.9972002635046113
+Proportion if forestation is equal to 0.65 will be 0.9995401594114041
+Proportion if forestation is equal to 0.7 will be 0.9998585972850679
+Proportion if forestation is equal to 0.75 will be 0.9998672859986728
+Proportion if forestation is equal to 0.8 will be 1.0
+Proportion if forestation is equal to 0.85 will be 1.0
+Proportion if forestation is equal to 0.9 will be 1.0
+Proportion if forestation is equal to 0.95 will be 1.0
+Proportion if forestation is equal to 1.0 will be 1.0
+
+k = 2 for L = 100
+Proportion if forestation is equal to 0.0 will be 1.0
+Proportion if forestation is equal to 0.05 will be 0.17828200972447325
+Proportion if forestation is equal to 0.1 will be 0.10338517840805124
+Proportion if forestation is equal to 0.15 will be 0.07911392405063292
+Proportion if forestation is equal to 0.2 will be 0.0602990834539315
+Proportion if forestation is equal to 0.25 will be 0.07554671968190854
+Proportion if forestation is equal to 0.3 will be 0.08438818565400844
+Proportion if forestation is equal to 0.35 will be 0.09163346613545817
+Proportion if forestation is equal to 0.4 will be 0.6398034398034398
+Proportion if forestation is equal to 0.45 will be 0.8350767861117293
+Proportion if forestation is equal to 0.5 will be 0.9795180722891567
+Proportion if forestation is equal to 0.55 will be 0.9950567557671183
+Proportion if forestation is equal to 0.6 will be 0.9981797120635446
+Proportion if forestation is equal to 0.65 will be 1.0
+Proportion if forestation is equal to 0.7 will be 0.9991477272727273
+Proportion if forestation is equal to 0.75 will be 1.0
+Proportion if forestation is equal to 0.8 will be 1.0
+Proportion if forestation is equal to 0.85 will be 1.0
+Proportion if forestation is equal to 0.9 will be 1.0
+Proportion if forestation is equal to 0.95 will be 1.0
+Proportion if forestation is equal to 1.0 will be 1.0
+
+k = 3 for L = 100
+Proportion if forestation is equal to 0.0 will be 1.0
+Proportion if forestation is equal to 0.05 will be 0.1835016835016835
+Proportion if forestation is equal to 0.1 will be 0.10295519542421354
+Proportion if forestation is equal to 0.15 will be 0.08416458852867831
+Proportion if forestation is equal to 0.2 will be 0.06264719736222327
+Proportion if forestation is equal to 0.25 will be 0.0682261208576998
+Proportion if forestation is equal to 0.3 will be 0.0728862973760933
+Proportion if forestation is equal to 0.35 will be 0.1123660584998552
+Proportion if forestation is equal to 0.4 will be 0.248641975308642
+Proportion if forestation is equal to 0.45 will be 0.9188832710485821
+Proportion if forestation is equal to 0.5 will be 0.9874040543200158
+Proportion if forestation is equal to 0.55 will be 0.9944603288062902
+Proportion if forestation is equal to 0.6 will be 0.9931655275879313
+Proportion if forestation is equal to 0.65 will be 0.9990873136598722
+Proportion if forestation is equal to 0.7 will be 1.0
+Proportion if forestation is equal to 0.75 will be 0.9997361825616673
+Proportion if forestation is equal to 0.8 will be 1.0
+Proportion if forestation is equal to 0.85 will be 1.0
+Proportion if forestation is equal to 0.9 will be 1.0
+Proportion if forestation is equal to 0.95 will be 1.0
+Proportion if forestation is equal to 1.0 will be 1.0
+
+k = 4 for L = 100
+Proportion if forestation is equal to 0.0 will be 1.0
+Proportion if forestation is equal to 0.05 will be 0.168
+Proportion if forestation is equal to 0.1 will be 0.107981220657277
+Proportion if forestation is equal to 0.15 will be 0.07770056854074542
+Proportion if forestation is equal to 0.2 will be 0.06813819577735125
+Proportion if forestation is equal to 0.25 will be 0.07103610675039246
+Proportion if forestation is equal to 0.3 will be 0.06934673366834171
+Proportion if forestation is equal to 0.35 will be 0.12028368794326241
+Proportion if forestation is equal to 0.4 will be 0.2004950495049505
+Proportion if forestation is equal to 0.45 will be 0.9390296264491198
+Proportion if forestation is equal to 0.5 will be 0.9767117834394905
+Proportion if forestation is equal to 0.55 will be 0.9885910901847157
+Proportion if forestation is equal to 0.6 will be 0.9980340760157274
+Proportion if forestation is equal to 0.65 will be 0.99844768705371
+Proportion if forestation is equal to 0.7 will be 0.9998579747195001
+Proportion if forestation is equal to 0.75 will be 1.0
+Proportion if forestation is equal to 0.8 will be 1.0
+Proportion if forestation is equal to 0.85 will be 1.0
+Proportion if forestation is equal to 0.9 will be 1.0
+Proportion if forestation is equal to 0.95 will be 1.0
+Proportion if forestation is equal to 1.0 will be 1.0
+
+k = 5 for L = 100
+Proportion if forestation is equal to 0.0 will be 1.0
+Proportion if forestation is equal to 0.05 will be 0.18305084745762712
+Proportion if forestation is equal to 0.1 will be 0.09728308501314636
+Proportion if forestation is equal to 0.15 will be 0.09173715029277814
+Proportion if forestation is equal to 0.2 will be 0.060794638583054096
+Proportion if forestation is equal to 0.25 will be 0.06561679790026247
+Proportion if forestation is equal to 0.3 will be 0.0685064935064935
+Proportion if forestation is equal to 0.35 will be 0.13591128802957067
+Proportion if forestation is equal to 0.4 will be 0.5653480220330496
+Proportion if forestation is equal to 0.45 will be 0.9398907103825137
+Proportion if forestation is equal to 0.5 will be 0.977760127084988
+Proportion if forestation is equal to 0.55 will be 0.9921475529583638
+Proportion if forestation is equal to 0.6 will be 0.9978494623655914
+Proportion if forestation is equal to 0.65 will be 0.9996937212863706
+Proportion if forestation is equal to 0.7 will be 0.9988631519113258
+Proportion if forestation is equal to 0.75 will be 1.0
+Proportion if forestation is equal to 0.8 will be 1.0
+Proportion if forestation is equal to 0.85 will be 1.0
+Proportion if forestation is equal to 0.9 will be 1.0
+Proportion if forestation is equal to 0.95 will be 1.0
+Proportion if forestation is equal to 1.0 will be 1.0
+
+k = 6 for L = 100
+Proportion if forestation is equal to 0.0 will be 1.0
+Proportion if forestation is equal to 0.05 will be 0.17731629392971246
+Proportion if forestation is equal to 0.1 will be 0.11566484517304189
+Proportion if forestation is equal to 0.15 will be 0.07301173402868318
+Proportion if forestation is equal to 0.2 will be 0.06786900806834362
+Proportion if forestation is equal to 0.25 will be 0.06310119276644863
+Proportion if forestation is equal to 0.3 will be 0.08516129032258064
+Proportion if forestation is equal to 0.35 will be 0.10304709141274238
+Proportion if forestation is equal to 0.4 will be 0.46603128054740955
+Proportion if forestation is equal to 0.45 will be 0.946733888645331
+Proportion if forestation is equal to 0.5 will be 0.985349435755296
+Proportion if forestation is equal to 0.55 will be 0.9816062647969405
+Proportion if forestation is equal to 0.6 will be 0.9988346928583319
+Proportion if forestation is equal to 0.65 will be 0.9993887530562348
+Proportion if forestation is equal to 0.7 will be 1.0
+Proportion if forestation is equal to 0.75 will be 1.0
+Proportion if forestation is equal to 0.8 will be 1.0
+Proportion if forestation is equal to 0.85 will be 1.0
+Proportion if forestation is equal to 0.9 will be 1.0
+Proportion if forestation is equal to 0.95 will be 1.0
+Proportion if forestation is equal to 1.0 will be 1.0
+
+k = 7 for L = 100
+Proportion if forestation is equal to 0.0 will be 1.0
+Proportion if forestation is equal to 0.05 will be 0.17647058823529413
+Proportion if forestation is equal to 0.1 will be 0.10714285714285714
+Proportion if forestation is equal to 0.15 will be 0.08349146110056926
+Proportion if forestation is equal to 0.2 will be 0.05957656326932546
+Proportion if forestation is equal to 0.25 will be 0.089258114374034
+Proportion if forestation is equal to 0.3 will be 0.07707575256367846
+Proportion if forestation is equal to 0.35 will be 0.16314285714285715
+Proportion if forestation is equal to 0.4 will be 0.8143845773603559
+Proportion if forestation is equal to 0.45 will be 0.8993655655217677
+Proportion if forestation is equal to 0.5 will be 0.966418660768148
+Proportion if forestation is equal to 0.55 will be 0.995240710232473
+Proportion if forestation is equal to 0.6 will be 0.9978246318607764
+Proportion if forestation is equal to 0.65 will be 0.9992378048780488
+Proportion if forestation is equal to 0.7 will be 0.9998587969500141
+Proportion if forestation is equal to 0.75 will be 1.0
+Proportion if forestation is equal to 0.8 will be 0.9998759766836165
+Proportion if forestation is equal to 0.85 will be 1.0
+Proportion if forestation is equal to 0.9 will be 1.0
+Proportion if forestation is equal to 0.95 will be 1.0
+Proportion if forestation is equal to 1.0 will be 1.0
+
+k = 8 for L = 100
+Proportion if forestation is equal to 0.0 will be 1.0
+Proportion if forestation is equal to 0.05 will be 0.17142857142857143
+Proportion if forestation is equal to 0.1 will be 0.09955156950672646
+Proportion if forestation is equal to 0.15 will be 0.07573891625615764
+Proportion if forestation is equal to 0.2 will be 0.06782178217821783
+Proportion if forestation is equal to 0.25 will be 0.06630476929042264
+Proportion if forestation is equal to 0.3 will be 0.07350591243208693
+Proportion if forestation is equal to 0.35 will be 0.14273881833241303
+Proportion if forestation is equal to 0.4 will be 0.5849056603773585
+Proportion if forestation is equal to 0.45 will be 0.8556906077348067
+Proportion if forestation is equal to 0.5 will be 0.973558648111332
+Proportion if forestation is equal to 0.55 will be 0.9912647861692447
+Proportion if forestation is equal to 0.6 will be 0.9976616001336228
+Proportion if forestation is equal to 0.65 will be 0.9987720644666155
+Proportion if forestation is equal to 0.7 will be 0.9998581761452277
+Proportion if forestation is equal to 0.75 will be 1.0
+Proportion if forestation is equal to 0.8 will be 1.0
+Proportion if forestation is equal to 0.85 will be 1.0
+Proportion if forestation is equal to 0.9 will be 1.0
+Proportion if forestation is equal to 0.95 will be 1.0
+Proportion if forestation is equal to 1.0 will be 1.0
+
+k = 9 for L = 100
+Proportion if forestation is equal to 0.0 will be 1.0
+Proportion if forestation is equal to 0.05 will be 0.1771523178807947
+Proportion if forestation is equal to 0.1 will be 0.10338345864661654
+Proportion if forestation is equal to 0.15 will be 0.08206106870229007
+Proportion if forestation is equal to 0.2 will be 0.05981669078630005
+Proportion if forestation is equal to 0.25 will be 0.07060185185185185
+Proportion if forestation is equal to 0.3 will be 0.1171142025234552
+Proportion if forestation is equal to 0.35 will be 0.07084019769357495
+Proportion if forestation is equal to 0.4 will be 0.24490303331675783
+Proportion if forestation is equal to 0.45 will be 0.9168848167539267
+Proportion if forestation is equal to 0.5 will be 0.9694610778443113
+Proportion if forestation is equal to 0.55 will be 0.9924146649810367
+Proportion if forestation is equal to 0.6 will be 0.9968110104061766
+Proportion if forestation is equal to 0.65 will be 0.9993917274939172
+Proportion if forestation is equal to 0.7 will be 0.9988684582743989
+Proportion if forestation is equal to 0.75 will be 0.999867514573397
+Proportion if forestation is equal to 0.8 will be 1.0
+Proportion if forestation is equal to 0.85 will be 1.0
+Proportion if forestation is equal to 0.9 will be 1.0
+Proportion if forestation is equal to 0.95 will be 1.0
+Proportion if forestation is equal to 1.0 will be 1.0
+
+k = 10 for L = 100
+Proportion if forestation is equal to 0.0 will be 1.0
+Proportion if forestation is equal to 0.05 will be 0.19145299145299147
+Proportion if forestation is equal to 0.1 will be 0.1087378640776699
+Proportion if forestation is equal to 0.15 will be 0.0781448538754765
+Proportion if forestation is equal to 0.2 will be 0.07601184600197433
+Proportion if forestation is equal to 0.25 will be 0.060947204968944096
+Proportion if forestation is equal to 0.3 will be 0.09239842726081259
+Proportion if forestation is equal to 0.35 will be 0.14622509121526803
+Proportion if forestation is equal to 0.4 will be 0.6692061931678545
+Proportion if forestation is equal to 0.45 will be 0.894404332129964
+Proportion if forestation is equal to 0.5 will be 0.980469520615506
+Proportion if forestation is equal to 0.55 will be 0.9944244604316547
+Proportion if forestation is equal to 0.6 will be 0.9966898378020523
+Proportion if forestation is equal to 0.65 will be 1.0
+Proportion if forestation is equal to 0.7 will be 0.9995706311721769
+Proportion if forestation is equal to 0.75 will be 1.0
+Proportion if forestation is equal to 0.8 will be 1.0
+Proportion if forestation is equal to 0.85 will be 1.0
+Proportion if forestation is equal to 0.9 will be 1.0
+Proportion if forestation is equal to 0.95 will be 1.0
+Proportion if forestation is equal to 1.0 will be 1.0
