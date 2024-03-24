@@ -1,0 +1,4 @@
+rootProject.name = 'labs4'
+include 'html-remover'
+include 'html-remover-application'
+
